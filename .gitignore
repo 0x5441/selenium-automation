@@ -1,0 +1,18 @@
+.env
+accounts/accounts.json
+cookies/*.json
+profiles/*
+screenshots/*
+logs/*
+results/*
+
+# Python
+**pycache**/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+

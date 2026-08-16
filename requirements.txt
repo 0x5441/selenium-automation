@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+selenium==4.11.2
+apscheduler==3.10.1
+python-dotenv==1.0.0
+requests==2.31.0
+filelock==3.12.2
+pytz==2024.1
