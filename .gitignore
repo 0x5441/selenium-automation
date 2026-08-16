@@ -16,3 +16,7 @@ results/*
 # VSCode
 .vscode/
 
+# Virtual environment
+.venv/
+
+
